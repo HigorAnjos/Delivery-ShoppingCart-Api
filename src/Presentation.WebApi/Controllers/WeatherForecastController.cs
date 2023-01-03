@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ShoppingCart.WebApi.Controllers
+namespace Presentation.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

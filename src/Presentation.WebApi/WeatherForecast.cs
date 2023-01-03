@@ -1,4 +1,4 @@
-namespace ShoppingCart.WebApi
+namespace Presentation.WebApi
 {
     public class WeatherForecast
     {
